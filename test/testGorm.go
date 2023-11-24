@@ -6,9 +6,9 @@ import (
 )
 
 type Product struct {
-	gorm.Model
-	Code  string
-	Price uint
+	gorm.Model //asdasd
+	Code       string
+	Price      uint
 }
 
 func main() {
