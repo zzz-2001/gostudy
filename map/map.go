@@ -23,6 +23,8 @@ func main() {
 		"height": "165",
 	}
 
-	fmt.Println(dog)
+	for a, b := range dog {
+		fmt.Println(a, b)
+	}
 
 }
