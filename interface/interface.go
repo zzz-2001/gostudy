@@ -24,7 +24,10 @@ func main() {
 		Name: "华为",
 	}
 
-	p.start("启动！")
-	p.stop("关机！")
+	var p1 Usber
+	p1 = p
+
+	p1.start("启动！")
+	// p1.stop("关机！")
 
 }
