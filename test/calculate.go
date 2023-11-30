@@ -7,3 +7,7 @@ func add(a int, b int) int {
 func subtract(a int, b int) int {
 	return a - b
 }
+
+func cheng(a int, b int) int {
+	return a * b
+}
