@@ -1,5 +1,3 @@
 {
-    "go.toolsEnvVars": {
-        "GOROOT": "D:\\golang"
-    }
+    "go.toolsEnvVars": {}
 }
